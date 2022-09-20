@@ -7,7 +7,10 @@ Contents include:
 This is a [code kata](http://codekata.com/)! As such, here's how we're going to approach this:
 
 We'll use this kata to practice incremental development of code, using tests to set the direction of development (this is also known as Test-Driven-Development).
-We - the candidate and the facilitator - will work on the code kata together as a pair. The candidate will be expected to take the lead, but should expect that both parties should offer suggestions and take the keyboard at various times (technology permitting).
+
+We - the candidate and the facilitator - will work on the code kata together as a pair.
+
+The candidate will be expected to take the lead, but should expect that both parties should offer suggestions and take the keyboard at various times (technology permitting).
 
 The objective is *not* to complete the exercise - we will not. Nor are we going to rate you based on details like IDE management, keyboard proficiency, etc.
 
