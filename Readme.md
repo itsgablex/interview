@@ -18,3 +18,5 @@ Instead, we want to:
 - see how we can trust the code written
 - learn about the candidate's style and philosophy
 - have fun, and show you what its like to work at Slang.
+
+Ok enough of that, lets go!
