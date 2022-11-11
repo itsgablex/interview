@@ -4,6 +4,9 @@ We’ll discuss a problem in the Slang domain, and we’d like the candidate to 
 
 ## Goals
 
+The candidate can:
+
+- ask sufficient questions to learn about the problem space
 - can talk through different solutions
 - can explore an unfamiliar problem space
 - can describe thought process of coming up with solutions
